@@ -1,0 +1,4 @@
+/assets/*
+!/assets/.gitkeep
+/html/*
+!/html/.gitkeep
