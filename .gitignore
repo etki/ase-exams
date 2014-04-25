@@ -2,3 +2,4 @@
 !/assets/.gitkeep
 /html/*
 !/html/.gitkeep
+*.pyc
