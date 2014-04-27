@@ -3,3 +3,5 @@
 /html/*
 !/html/.gitkeep
 *.pyc
+.project
+.pydevproject
