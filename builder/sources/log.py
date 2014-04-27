@@ -4,7 +4,11 @@ class AseLog:
         if isinstance(aliases, dict):
             self.aliases = aliases
         else:
-            self.aliases = {}
+            self.aliases = {
+                'asset_download':'Asset "%s" is being downloaded to %s',
+                'missing_answer':'No answer file found at %s, creating',
+                'faulty_answer':'Couldn\'t parse answer file %s'
+            }
         
     def put(self, message, args=None):
         if not self.mute:

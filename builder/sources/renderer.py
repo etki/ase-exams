@@ -16,13 +16,20 @@ class AseRenderer:
     
     def render(self, template, args=None):
         template = self._get_template(template)
-        args = dict(self.global_args).update(args)
+        if args is not None:
+            gargs = dict(self.global_args)
+            gargs.update(args)
+            args = gargs
+        else:
+            args = dict(self.global_args)
         
         tags = set(re.findall(self.tag_pattern, template))
         for tag in tags:
+            realtag = tag[2:-2].strip()
             if tag.startswith('{{'):
                 match = self.var_pattern.match(tag)
-                if match is not None and match.group(1) in args:
+                if match is not None and args is not None and \
+                        match.group(1) in args:
                     template = template.replace(tag, str(args[match.group(1)]))
             elif tag.startswith('{%'):
                 match = self.include_pattern.match(tag)

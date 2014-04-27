@@ -11,6 +11,19 @@ class AseConfig(dict):
             'questions_dir':path.join(basedir, 'text', 'questions'),
             'answers_dir':path.join(basedir, 'text', 'answers'),
             'html_dir':path.join(basedir, 'html'),
+            'template_dir':path.join(basedir, 'builder', 'templates'),
+            'definitions_file':path.join(basedir, 'text', 'definitions.md'),
+            'assets_dir':path.join(basedir, 'assets'),
+            'assets':{
+                'bootstrap':{
+                    'url':'http://netdna.bootstrapcdn.com/bootstrap/3.1.1/css/bootstrap.min.css',
+                    'type':'css'
+                },
+                'jquery':{
+                    'url':'http://code.jquery.com/jquery-2.1.0.min.js',
+                    'type':'js'
+                }
+            },
             'mute':False,
         }
         for k, v in default_config.iteritems():

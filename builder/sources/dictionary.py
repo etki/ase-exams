@@ -1,0 +1,2 @@
+class AseDictionary(dict):
+    pass
