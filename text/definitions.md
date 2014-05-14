@@ -39,7 +39,7 @@
 
 <a name="aes"></a> **AES** - Audio Engineering Society
 
-<a name="din"></a> ? Немецкий стандарт
+<a name="din"></a> **DIN** - Deutsches Institut für Normung
 
 <a name="ansi"></a> **ANSI** - American National Standards Institute
 

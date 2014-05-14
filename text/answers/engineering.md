@@ -4,7 +4,65 @@
 [Назад к оглавлению](../../README.md)
 
 #### ﻿<a name="a1"></a> ﻿1. Микрофонные стереосистемы - стереофония раздельная и совмещенная: АВ, DIN, NOS, ХУ, MS, и др., системы для Surround Sound.
-Здесь пусто, здесь вообще ничего нет.
+
+Микрофоны-восьмерки - Neumann 87, AKG 414, Royer Studio R-122
+
+**AB**
+
+Любая разнесенная система: никаких ограничений, кроме обязательного
+равнобедренного треугольника с источником звука.
+
+**DIN**
+
+![DIN](http://www.dpamicrophones.com/en/Mic-University/Stereo-Techniques/~/media/Images/Content/MicUni/Stereo%20Techniques/DIN-stereo-DPA-Microphones.jpg)
+
+**NOS**
+
+![NOS](http://upload.wikimedia.org/wikipedia/commons/thumb/6/64/NOS-Stereo.svg/300px-NOS-Stereo.svg.png)
+
+**XY**
+
+Здесь могла бы быть ваша картинка.
+
+**MS**
+
+![MS](http://www.uaudio.com/media/blog/2011/05/basics_panning.gif)
+
+**Blumlein Stereo**
+
+![Blumlein Stereo](http://upload.wikimedia.org/wikipedia/commons/7/71/Blumlein_-Stereo.png)
+
+**Decca tree**
+
+![Decca Tree](http://www.sanken-mic.com/upload/Image/surround01.jpg)
+
+**Fukada tree**
+
+![Fukada Tree](http://www.sanken-mic.com/upload/Image/surround03.jpg)
+
+**Double MS**
+
+Система, составленная из двух систем MS (с общей восьмеркой), в которой
+фронтальный микрофон дублируется задненаправленным.
+Фактически, это почти повтор Blumlein Stereo, и эта система может быть
+успешно заменена четырьмя кардиоидами.
+![Double MS](http://www.imaico.co.jp/schps/stereo/double-ms-principle-e.gif)
+
+**Hamasaki Square**
+
+Система, состоящая из четырех восьмерок, расположенных квадратом над
+исполнителям и залом. Система предназначена для записи общего сигнала.
+![Hamasaki square](http://www.pygmytrollproductions.com/blog/wp-content/uploads/2013/01/Hamasquare-298x300.png)
+
+**Soundfield**
+
+Многоканальный мноонаправленный микрофон.
+
+![Soundfield](http://www.sanken-mic.com/upload/Image/soundfield_2.jpg)
+
+**Искусственная голова и аналоги**
+
+![Schoeps KFM360](http://www.sanken-mic.com/upload/Image/surround15-2.jpg)
 
 #### ﻿<a name="a2"></a> 2. Запись ударной установки. Выбор и расстановка микрофонов соответственно жанрово-стилевой принадлежности произведения.
 
